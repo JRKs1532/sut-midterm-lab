@@ -6,3 +6,4 @@ https://github.com/JRKs1532/sut-midterm-lab/labels/story
 https://github.com/JRKs1532/sut-midterm-lab/labels/task
 
 https://github.com/JRKs1532/sut-midterm-lab/issues/1
+#2
